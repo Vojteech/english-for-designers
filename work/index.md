@@ -2,7 +2,7 @@
     - [About](about.md)
     - [Writing](writing/index.md)
 
-# Projects
+## Projects
 
 Skoba
 Skoba is a small shop in Prague with beautiful diaries and notebooks. I work with them for almost a year now and I really enjoy our cooperation. I get to be part of the creative process of why is the product special and how we wanna show that which is something I really appreciate.
