@@ -1,10 +1,8 @@
-- [**Una Kravets**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+- [**Vojtech Hanka**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+    - [About](about.md)
     - [Work](work/index.md)
     - [Writing](writing/index.md)
-    - [About](about.md)
 
-![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
+## Hi! I´m Vojtech, a person who had no idea what to do in future but then found photography.
 
-## Hello World, My name is Una, and I’m a web developer.
-
-Oh, and I’m a podcaster, too. Learn more [about me](about.md).
+![Me nervously smiling while trying to look normal.](img/portrait-studio-una.jpg)
