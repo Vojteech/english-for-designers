@@ -29,3 +29,4 @@ Sometimes I have a chance to capture a concert which for me is a more creative a
 
 ## Fashion film
 For my bachelor thesis I´m working on a fashion film which should be finished in the spring of 2024.
+...
