@@ -24,3 +24,7 @@ This is my own project and my own passion. I started my photography journey with
 Sometimes I have a chance to capture a concert which for me is a more creative and nonformal type of photography which I really enjoy. Concert photography is really inspiring for me and the plan is to use this inspiration to create more cinematic projects in the future.
 
 ![A singer with outstretched arms standing in front of the audience creating a movie like setting](https://github.com/Vojteech/english-for-designers/assets/148872005/3ac595c3-50bc-4b39-9d17-2a43c2556897)
+
+
+### Fashion film
+For my bachelor thesis I´m working on a fashion film which should be finished in the spring of 2024.
