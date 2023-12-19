@@ -1,4 +1,4 @@
-- [**Vojtech Hanka**](index.md)
+- [**Vojtech Hanka**](../index.md)
 
 
 Soon...
