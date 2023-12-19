@@ -1,7 +1,7 @@
 [**Vojtech Hanka**](index.md)
 
 
-## Projects
+# Projects
 
 
 
