@@ -2,9 +2,6 @@
     - [About](about.md)
     - [Writing](writing/index.md)
 
-
-# Projects
-
-## Skoba
+(Project_Skoba_ColoursOfOstrava)
 
 
