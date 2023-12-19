@@ -13,6 +13,9 @@ Skoba is a small shop in Prague with beautiful diaries and notebooks. I work wit
 With this notebook for festival Colours of Ostrava we wanted to show the contrast between the colorful notebook and the rusty metal place where the festival is held.
 
 
+
+
+
 ### Diary
 This is my own project and my own passion. I started my photography journey with street photography and it will always have a special place in my heart. Nowadays I enjoy using film camera and capturing moments around me which creates something like my diary.
 
