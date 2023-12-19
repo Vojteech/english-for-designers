@@ -1,5 +1,5 @@
 - [**Vojtech Hanka**](index.md)
-    - [About](about.md)
+    - [About](about/index.md)
     - [Work](work/index.md)
     - [Writing](writing/index.md)
 
