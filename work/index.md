@@ -17,7 +17,7 @@ With this notebook for festival Colours of Ostrava we wanted to show the contras
 ### Diary
 This is my own project and my own passion. I started my photography journey with street photography and it will always have a special place in my heart. Nowadays I enjoy using film camera and capturing moments around me which creates something like my diary.
 
-![Three men walk up the stairs in sync](https://github.com/Vojteech/english-for-designers/assets/148872005/dace19b6-32d7-44df-8f01-915a24d37583)
+![Three men walk up the stairs in sync](https://github.com/Vojteech/english-for-designers/assets/148872005/e3d460a3-90f8-4a77-b6f9-b62242a7b157)
 
 
 ### Concerts
