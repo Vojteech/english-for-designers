@@ -6,7 +6,7 @@
 
 
 ## Skoba
-Skoba is a small shop in Prague with handmade diaries and notebooks. I work with them for almost a year now and I really enjoy our cooperation. I get to be part of the creative process of why is the product special and how we wanna show that which is something I really appreciate.
+Skoba is a small shop in Prague with handmade diaries and notebooks. I have worked with them for almost a year now and I really enjoy our cooperation. I get to be part of the creative process of why the product is special and how we want to show that which is something I really appreciate.
 
 ![Colorful notebook sticking out of a black bag in a rusty metal setting](https://github.com/Vojteech/english-for-designers/assets/148872005/d06f5877-d673-4174-af30-c1b46922806c)
 
